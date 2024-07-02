@@ -1,6 +1,6 @@
 # Challenges
 
-1. [Fibonacci-sequence](./fibonacci.md)
+1. [Fibonacci-sequence](./simple/fibonacci.md)
 
 2. [FizzBuzz](./fizzbuzz.md)
 
